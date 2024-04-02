@@ -6,8 +6,12 @@
 <div align="center">
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" >
 </div>
-
-<br>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/license-mit.svg" >
+</div>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/it-works-dont-ask-me.svg" >
+</div>
 
 ## **🔥 Unique Features:**  
 - Fast Scanning
@@ -15,13 +19,9 @@
 - Support http/https
 - Safe for use no backdor or etc
 
-<br>
-
 ## **🔧 Requirements:**
 - Python 3.x.x
 - Pip
-
-<br>
 
 ## **🚀 Installation:**
 ```bash
