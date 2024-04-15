@@ -31,7 +31,7 @@ git clone https://github.com/depress3d/ShellFinder.git
 pip install -r requirements.txt
 ```
 ```bash
-python clsh.py
+python finder.py
 ```
 
 <br>
